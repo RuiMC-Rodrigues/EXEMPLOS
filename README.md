@@ -1,1 +1,1 @@
-# Este Repositório Contem um ficheiro de Controlo de Servo Motor
+# Este Repositório Contém um ficheiro de Controlo de Servo Motor
